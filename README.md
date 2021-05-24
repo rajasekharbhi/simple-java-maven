@@ -10,5 +10,4 @@ main application works as expected. The results of these tests are saved to a
 JUnit XML report.
 
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
-you'll be creating yourself during the tutorial and the `scripts` subdirectory
 
